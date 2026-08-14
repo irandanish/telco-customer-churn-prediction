@@ -50,3 +50,11 @@ Key Results:
 
 ## Conclusion
 The final XGBoost model provides a strong solution for identifying potential churn customers and can help businesses improve customer retention strategies.
+
+
+## Dataset
+
+This project uses the Telco Customer Churn dataset containing customer demographics, account information, subscribed services, and churn labels.
+
+The dataset is publicly available and can be accessed from:
+[IBM Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
